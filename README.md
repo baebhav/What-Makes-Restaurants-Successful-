@@ -1,2 +1,2 @@
 # What-Makes-Restaurants-Successful-
-Predicting success of restaurants using Yelp data and machine learning
+As part of my coursework, I am currently working on building machine learning models that predict the success of new restaurants using Yelp data. Our team has just finished cleaning and transforming the Yelp data into usable forms with various encoded attributes. I will soon upload the methodology we developed to predict the success metric for a given restaurant including cleaning and aggregation scripts developed with pandas and SQL. Once we've identified the optimal models, I will also upload our results.
